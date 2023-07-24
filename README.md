@@ -1,7 +1,21 @@
 # MyNewWebSpace
 
+MyNewWebSpace is a personal website project built to showcase my skills and experiences in data science and machine learning.
+
+## Table of Contents
+- [Description](#description)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
 ## Description
 The purpose of this project is to create a personal website where I can share my journey, projects, and expertise in the field of data science and machine learning. The website is built using Node.js and Express for the backend, EJS for templating, and MongoDB as the database to store blog posts.
+
 
 ## Features
 ### Home Page
