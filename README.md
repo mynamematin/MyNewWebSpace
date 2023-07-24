@@ -23,12 +23,12 @@ Allows me to create new blog posts through a simple form.
 Each blog post has its own page with a title and content.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your-username/MyNewWebSpace.git`
+1. Clone the repository: `git clone https://github.com/mynamematin/MyNewWebSpace.git`
 2. Navigate to the project directory: `cd MyNewWebSpace`
-3. Install the required dependencies: `npm install`
+3. Install the required dependencies: `npm install express`
 
 ## Usage
-1. Start the application: `npm start`
+1. Start the application: `node app.js`
 2. Open your web browser and go to `http://localhost:1800`
 
 ## Technologies Used
@@ -46,5 +46,5 @@ _Include the license information of your choice (e.g., MIT License)._
 
 ## Contact
 If you have any questions or want to get in touch, you can reach me at:
-- Email: your@email.com
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
+- Email: matinahmed000@gmail.com
+- GitHub: [](https://github.com/mynamematin)
