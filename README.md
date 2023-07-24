@@ -42,9 +42,9 @@ Each blog post has its own page with a title and content.
 This project is open for contributions. If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
 ## License
-_Include the license information of your choice (e.g., MIT License)._
+_@matinahmed_
 
 ## Contact
 If you have any questions or want to get in touch, you can reach me at:
 - Email: matinahmed000@gmail.com
-- GitHub: [](https://github.com/mynamematin)
+- GitHub: (https://github.com/mynamematin)
