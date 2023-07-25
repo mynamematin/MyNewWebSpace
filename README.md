@@ -20,19 +20,22 @@ The purpose of this project is to create a personal website where I can share my
 ## Features
 ### Home Page
 Provides an introduction to the website and a brief overview of my work and experiences.
-![](public/home)
+![](public/home.png)
 
 ### Resume Page
 Displays information about my education, skills, and past projects.
+![](public/resume.png)
 
 ### Projects Page
 Showcases a list of projects I have worked on.
 
 ### Blogs Page
 Contains a collection of blog posts where I share insights, tutorials, and thoughts related to data science and machine learning.
+![](public/blogs.png)
 
 ### Compose Page
 Allows me to create new blog posts through a simple form.
+![](public/compose.png)
 
 ### Individual Blog Post Pages
 Each blog post has its own page with a title and content.
