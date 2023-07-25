@@ -20,6 +20,7 @@ The purpose of this project is to create a personal website where I can share my
 ## Features
 ### Home Page
 Provides an introduction to the website and a brief overview of my work and experiences.
+![](public/home)
 
 ### Resume Page
 Displays information about my education, skills, and past projects.
